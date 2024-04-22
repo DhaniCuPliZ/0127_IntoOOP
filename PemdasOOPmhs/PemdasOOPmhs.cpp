@@ -27,3 +27,7 @@ class bangunDatar {
 			cout << "luasny = " << hitungLuas() << endl;
 		}
 };
+
+int main() {
+
+}
