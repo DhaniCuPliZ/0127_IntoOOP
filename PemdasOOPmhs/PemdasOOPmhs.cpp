@@ -12,6 +12,7 @@ class bangunDatar {
 		void input() { //methode input persegi panjang
 
 			cout << "Masukkan Panjangnya = ";
+			cin >> panjang;
 			
 		}
 };
